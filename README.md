@@ -6,10 +6,10 @@ Hi 👋 My name is Brice
 * :loudspeaker: I am a #CokeEmployee, the views expressed on GitHub are my own.
 
 **I specialize in**
-* Systems Engineering for Privacy Ops and Cyber Risk.
+* Systems Engineering for Privacy Ops and Cyber Risk
 * Privacy Engineering
 * Privacy and Security by Design
-* Full-Stack Vulnerability Management.
+* Full-Stack Vulnerability Management
 
 #### Languages
 ![Powershell](https://img.shields.io/badge/powershell-%5391FE.svg?style=for-the-badge&logo=powershell&logoColor=white&color=5391FE)
